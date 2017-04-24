@@ -57,3 +57,50 @@ The comparation of different fitting methods, and the using of restaurants to ge
 
 What were aspects of the presentations for which you had concerns or questions:
 In their plot, I cannot see a pattern except there are or are not crimes, the color of shadows does not make much sense.
+
+
+
+Title of presentation: Game
+
+What were aspects of the presentation that you liked:
+
+Their clear way of presentation
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+
+
+Title of presentation: HIB
+
+What were aspects of the presentation that you liked:
+
+Their plots are neat.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked:
+
+They put great emphasis of residual analysis, trying to make their model better
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+Title of presentation: NBA
+What were aspects of the presentation that you liked:
+I love their plots, they are not usually used in class, but they really help to show the main points.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+Title of presentation: Terrorism
+What were aspects of the presentation that you liked:
+
+They have clear different dimensions when they look into their data.And they actually look into the events, not just focusing on numbers.
+
+What were aspects of the presentations for which you had concerns or questions:
